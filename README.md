@@ -7,7 +7,7 @@
 ## About The Project
 
 
-I made backend API that allows you to signup, signin. Creating new posts and uploading photos into database. It's also support CRUD operations on users and posts. Authorization and authentication is based on Passport.js with local-strategy and sessions.
+I made backend API that allows you to sign-up, sign-in. Create new posts and upload photos into database. It also supports CRUD operations on users and posts. Authorisation and authentication is based on Passport.js with local-strategy and sessions.
 
 
 ### Built With
